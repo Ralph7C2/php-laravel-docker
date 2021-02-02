@@ -3,6 +3,7 @@
 A demo repo for deploying a Laravel PHP application on [Render](https://render.com) using Docker. You can follow the getting started tutorial [here](https://render.com/docs/deploy-php-laravel-docker).
 
 
+
 ## Deployment
 
 - [Create](https://dashboard.render.com/new/database) a new PostgreSQL database on Render and copy the internal DB URL to use below.
