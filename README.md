@@ -7,6 +7,9 @@ A demo repo for deploying a Laravel PHP application on [Render](https://render.c
 
 - [Create](https://dashboard.render.com/new/database) a new PostgreSQL database on Render and copy the internal DB URL to use below.
 
+
+
+
 - Fork this repo to your own GitHub account.
 
 
