@@ -15,6 +15,7 @@ A demo repo for deploying a Laravel PHP application on [Render](https://render.c
 - Select `Docker` for the environment, and add the following environment variable under the *Advanced* section:
 
    | Key             | Value           |
+   
    | --------------- | --------------- |
    | `DATABASE_URL`  | The **internal connection string** for the database you created above. |
    | `DB_CONNECTION` | `pgsql` |
