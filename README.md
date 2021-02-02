@@ -5,13 +5,13 @@ A demo repo for deploying a Laravel PHP application on [Render](https://render.c
 
 ## Deployment
 
-1. [Create](https://dashboard.render.com/new/database) a new PostgreSQL database on Render and copy the internal DB URL to use below.
+- [Create](https://dashboard.render.com/new/database) a new PostgreSQL database on Render and copy the internal DB URL to use below.
 
-2. Fork this repo to your own GitHub account.
+- Fork this repo to your own GitHub account.
 
-3. Create a new **Web Service** on Render, and give Render's GitHub app permission to access your new repo.
+- Create a new **Web Service** on Render, and give Render's GitHub app permission to access your new repo.
 
-4. Select `Docker` for the environment, and add the following environment variable under the *Advanced* section:
+- Select `Docker` for the environment, and add the following environment variable under the *Advanced* section:
 
    | Key             | Value           |
    | --------------- | --------------- |
